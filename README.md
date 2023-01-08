@@ -14,7 +14,7 @@ Open a terminal and navigate to the directory where you want to install Kadi.
 Run the following command to clone the Kadi repository and install the dependencies:
 
 ```shell
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/USERNAME/faso-dev/main/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/faso-dev/main/install.sh)"
 ```
 
 The `install.sh` script will clone the Kadi repository, make the kadi.sh script executable, and add it to your PATH environment variable so that it can be run from any directory.
